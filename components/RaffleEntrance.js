@@ -93,7 +93,7 @@ export default function RaffleEntrance() {
 
     return (
         <div className="p-5">
-            <h1 className="py-4 px-0 font-bold text-3xl">Raffle</h1>
+            <h1 className="py-4 px-0 font-bold text-3xl">Raffle!</h1>
             {raffleAddress ? (
                 <div>
                     <button
